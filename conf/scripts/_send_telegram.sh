@@ -25,10 +25,10 @@ bconsole=`which bconsole`
 curl=`which curl`
 # Use @BotFather to create a bot an get the API token
 # Telegram config
-api_token="465708096:AAF7KaSKMG9S2HC57qAy7Th5gQorn8GjSsk"
+api_token="TokenHere"
 # Send a message to bot and 
 # Open in browser the url https://api.telegram.org/bot${API_TOKEN}/getUpdates and get the id value os user
-id="337667131"
+id="IDhere"
 log="/var/log/bacula/telegram.log"
 
 
